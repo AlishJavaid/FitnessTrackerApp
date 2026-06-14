@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Fitness Tracker</string>
+    <string name="bmi_calculator">BMI Calculator</string>
+    <string name="weight_kg">Weight (kg)</string>
+    <string name="height_cm">Height (cm)</string>
+    <string name="calculate_bmi">Calculate BMI</string>
+    <string name="bmi_result">BMI: %s</string>
+    <string name="daily_calorie_goal">Daily Calorie Goal</string>
+    <string name="goal_status">%1$d / %2$d kcal</string>
+    <string name="workout_name">Workout Name</string>
+    <string name="dur_min">Dur (min)</string>
+    <string name="calories">Calories</string>
+    <string name="add_activity">Add Activity</string>
+    <string name="update_activity">Update Activity</string>
+    <string name="search_workouts">Search Workouts</string>
+    <string name="export_to_csv">Export to CSV</string>
+    <string name="weekly_statistics">Weekly Statistics</string>
+    <string name="duration_label">Duration: %1$d min</string>
+    <string name="calories_label">Calories: %1$d</string>
+    <string name="delete_activity_title">Delete Activity</string>
+    <string name="delete_activity_message">Are you sure you want to delete this activity?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="activity_added">Activity Added</string>
+    <string name="activity_updated">Activity Updated</string>
+    <string name="enter_weight_height">Enter weight and height</string>
+    <string name="export_failed">Export failed</string>
+    <string name="exported_to">Exported to: %s</string>
+    <string name="required">Required</string>
+
+    <string name="toggle_theme">Toggle Theme</string>
+    <string name="your_bmi">Your BMI</string>
+    <string name="no_data">--</string>
+    <string name="goal_progress">Goal Progress</string>
+    <string name="zero_percent">0%</string>
+    <string name="percent_format">%1$d%%</string>
+    <string name="log_activity">Log Activity</string>
+</resources>
